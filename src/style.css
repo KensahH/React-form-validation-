@@ -1,0 +1,67 @@
+
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.form{
+  text-transform: uppercase;
+  position:relative;
+  left:50px;
+}
+.name{
+  position: relative;
+  left:60px;
+}
+.nameText{
+  position: relative;
+  left:80px;
+}
+.nameMessage{
+  position: relative;
+  left:140px;
+  font-size: 12px;
+  color:red;
+}
+.email{
+  position: relative;
+  left:60px;
+}
+.emailText{
+  position: relative;
+  left:80px;
+}
+.emailText{
+  position: relative;
+  left:100px;
+}
+.emailMessage{
+  position: relative;
+  left:140px;
+  font-size: 12px;
+  color:red;
+}
+.password{
+  position: relative;
+  left:50px;
+}
+.passwordText{
+  position: relative;
+  left:80px;
+}
+.passwordMessage{
+  position: relative;
+  left:140px;
+  font-size: 12px;
+  color:red;
+}
+.Btn{
+  position: relative;
+  left:50px;
+  top:30px;
+  background-color: skyblue;
+  color:black;
+  height:20px;
+border-radius: 5px;
+
+}
